@@ -2,5 +2,8 @@
   "name": “Chick Wif Dick”,
   "symbol": “CWD”,
   "description": "Description of token",
-  "image": "https://raw.githubusercontent.com/ChickWD/CWD/main/celebrities-caitlyn-jenner.png"
+  "image": "https://raw.githubusercontent.com/ChickWD/CWD/main/celebrities-caitlyn-jenner.png",
+   "extensions": {
+    "twitter": "https://twitter.com/ChickWifDick_",
+  }
 }
